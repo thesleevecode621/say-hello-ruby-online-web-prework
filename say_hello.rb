@@ -1,1 +1,1 @@
-def say_hello(phrase=)
+def say_hello(phrase="")
